@@ -1,0 +1,302 @@
+[
+  {
+    "visitId": 1,
+    "qrOrIdNumber": "012345678901",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T00:05:43.596515",
+    "checkOutTime": "2026-03-04T00:05:47.649630",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 2,
+    "qrOrIdNumber": "VISIT-1ebe314f",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T00:32:01.094455",
+    "checkOutTime": "2026-03-04T22:36:53.081960",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 3,
+    "qrOrIdNumber": "VISIT-38f34379",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T00:32:01.546530",
+    "checkOutTime": "2026-03-06T08:42:26.969060",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 4,
+    "qrOrIdNumber": "VISIT-a09fe1e2",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T00:32:02.028949",
+    "checkOutTime": "2026-03-04T20:53:01.293825",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 5,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "",
+    "vehicleType": "Car",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T21:00:26.330016",
+    "checkOutTime": "2026-03-04T21:01:44.837972",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 6,
+    "qrOrIdNumber": "123",
+    "vehiclePlate": "60F212345",
+    "vehicleType": "Car",
+    "badgeNumber": "5",
+    "checkInTime": "2026-03-04T21:01:06.210019",
+    "checkOutTime": "2026-03-04T21:02:32.558681",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 7,
+    "qrOrIdNumber": "VISIT-46b44dec",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T21:33:50.124389",
+    "checkOutTime": "2026-03-06T08:42:34.271134",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 8,
+    "qrOrIdNumber": "VISIT-abaad8a7",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T21:34:05.278306",
+    "checkOutTime": "2026-03-06T08:42:34.676578",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 9,
+    "qrOrIdNumber": "VISIT-bd6de3ef",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T21:44:12.386050",
+    "checkOutTime": "2026-03-06T08:42:35.170091",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 10,
+    "qrOrIdNumber": "VISIT-3945f4b2",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T22:03:00.850642",
+    "checkOutTime": "2026-03-04T22:49:59.978394",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 11,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "60AA12345",
+    "vehicleType": "Car",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T22:40:26.972969",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 12,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "60AA12346",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T22:42:13.561699",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 13,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "60AA12334",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-04T22:42:29.618969",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 14,
+    "qrOrIdNumber": "VISIT-02c4f701",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-06T08:59:41.381718",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 15,
+    "qrOrIdNumber": "VISIT-ee1ef7c0",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-06T09:05:45.025292",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 16,
+    "qrOrIdNumber": "VISIT-cd33f83c",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-06T09:22:25.396523",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 17,
+    "qrOrIdNumber": "VISIT-8ffe76c4",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-06T09:40:24.032483",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 18,
+    "qrOrIdNumber": "VISIT-0e93a27f",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-06T10:34:57.694423",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 19,
+    "qrOrIdNumber": "VISIT-45afd1c6",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-07T00:42:19.344208",
+    "checkOutTime": "2026-03-07T00:42:36.084510",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 20,
+    "qrOrIdNumber": "VISIT-54e5d977",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-07T00:42:20.714098",
+    "checkOutTime": "2026-03-07T00:42:35.675555",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 21,
+    "qrOrIdNumber": "VISIT-c895aa21",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-07T00:43:01.543525",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 22,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-30T14:28:40.901110",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 23,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-30T14:28:41.746154",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 24,
+    "qrOrIdNumber": "",
+    "vehiclePlate": "",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-30T14:28:41.890496",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 25,
+    "qrOrIdNumber": "VISIT-b1566567",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-31T09:02:14.122784",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 26,
+    "qrOrIdNumber": "59-VI79379",
+    "vehiclePlate": "59-VI79379",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-31T10:06:25.661912",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": "visits/26.jpg"
+  },
+  {
+    "visitId": 27,
+    "qrOrIdNumber": "12-B1168-88",
+    "vehiclePlate": "12-B1168-88",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-31T10:17:55.348670",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": "visits/27.jpg"
+  },
+  {
+    "visitId": 28,
+    "qrOrIdNumber": "59-V179379",
+    "vehiclePlate": "59-V179379",
+    "vehicleType": "Xe tải",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-31T10:22:45.018781",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": "visits/28.jpg"
+  },
+  {
+    "visitId": 29,
+    "qrOrIdNumber": "51F-97022",
+    "vehiclePlate": "51F-97022",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-03-31T10:25:44.749558",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": "visits/29.jpg"
+  },
+  {
+    "visitId": 30,
+    "qrOrIdNumber": "99-E122268",
+    "vehiclePlate": "99-E122268",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-02T17:04:20.401983",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": "visits/30.jpg"
+  }
+]

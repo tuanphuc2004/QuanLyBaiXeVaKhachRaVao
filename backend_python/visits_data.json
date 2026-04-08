@@ -1,0 +1,102 @@
+[
+  {
+    "visitId": 1,
+    "qrOrIdNumber": "VISIT-EM001",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-02T10:15:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 2,
+    "qrOrIdNumber": "VISIT-EM002",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T09:30:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 3,
+    "qrOrIdNumber": "VISIT-GUEST001",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T11:05:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 4,
+    "qrOrIdNumber": "VISIT-EM002",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T07:45:00",
+    "checkOutTime": "2026-04-03T09:00:00",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 10,
+    "qrOrIdNumber": "59-VI11111",
+    "vehiclePlate": "59-VI11111",
+    "vehicleType": "Xe máy",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-02T16:40:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 11,
+    "qrOrIdNumber": "51F-22222",
+    "vehiclePlate": "51F-22222",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T14:25:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 12,
+    "qrOrIdNumber": "60AA33333",
+    "vehiclePlate": "60AA33333",
+    "vehicleType": "Xe tải",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T15:50:00",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 13,
+    "qrOrIdNumber": "99-E44444",
+    "vehiclePlate": "99-E44444",
+    "vehicleType": "Xe tải",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-02T08:10:00",
+    "checkOutTime": "2026-04-02T10:00:00",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 14,
+    "qrOrIdNumber": "99-E55555",
+    "vehiclePlate": "99-E55555",
+    "vehicleType": "Ô tô",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-03T16:20:00",
+    "checkOutTime": "2026-04-03T18:10:00",
+    "vehiclePlateImageRelativePath": null
+  },
+  {
+    "visitId": 15,
+    "qrOrIdNumber": "VISIT-PD001",
+    "vehiclePlate": "",
+    "vehicleType": "",
+    "badgeNumber": "",
+    "checkInTime": "2026-04-04T14:19:45.216637",
+    "checkOutTime": null,
+    "vehiclePlateImageRelativePath": null
+  }
+]

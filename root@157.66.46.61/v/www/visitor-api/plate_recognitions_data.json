@@ -1,0 +1,182 @@
+[
+  {
+    "candidateId": 1,
+    "plateNumber": "YOURSELF",
+    "vehicleType": "Xe máy",
+    "confidence": 0.44015867454491137,
+    "createdAt": "2026-03-25T14:47:00.744693",
+    "status": "rejected",
+    "decidedAt": "2026-03-25T14:48:05.404796",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 2,
+    "plateNumber": "166666",
+    "vehicleType": "Xe máy",
+    "confidence": 0.9425250767440485,
+    "createdAt": "2026-03-25T14:48:14.218862",
+    "status": "rejected",
+    "decidedAt": "2026-03-25T14:56:08.987935",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 3,
+    "plateNumber": "99-ET99999",
+    "vehicleType": "Ô tô",
+    "confidence": 0.7716925467433773,
+    "createdAt": "2026-03-31T10:04:16.902149",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:05:04.187163",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 4,
+    "plateNumber": "99-E122268",
+    "vehicleType": "Ô tô",
+    "confidence": 0.6888429856744165,
+    "createdAt": "2026-03-31T10:05:07.026413",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:05:56.604999",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 5,
+    "plateNumber": "59-VI79379",
+    "vehicleType": "Ô tô",
+    "confidence": 0.41788372160808046,
+    "createdAt": "2026-03-31T10:06:01.384660",
+    "status": "confirmed",
+    "decidedAt": "2026-03-31T10:06:25.658812",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 6,
+    "plateNumber": "12-M11019",
+    "vehicleType": "Xe máy",
+    "confidence": 0.49795806407928467,
+    "createdAt": "2026-03-31T10:13:07.543743",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:13:16.140990",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 7,
+    "plateNumber": "12-B1168-881",
+    "vehicleType": "Xe tải",
+    "confidence": 0.26303887788449254,
+    "createdAt": "2026-03-31T10:13:22.956181",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:13:35.665146",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 8,
+    "plateNumber": "16848161",
+    "vehicleType": "Xe máy",
+    "confidence": 0.14804256625223516,
+    "createdAt": "2026-03-31T10:13:38.495853",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:16:35.387558",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 9,
+    "plateNumber": "12-E1684",
+    "vehicleType": "Xe máy",
+    "confidence": 0.1859014481306076,
+    "createdAt": "2026-03-31T10:16:47.648518",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:16:51.585880",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 10,
+    "plateNumber": "12-B168288",
+    "vehicleType": "Ô tô",
+    "confidence": 0.30767465038153924,
+    "createdAt": "2026-03-31T10:16:58.405376",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:17:13.421210",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 11,
+    "plateNumber": "12-B1168-88",
+    "vehicleType": "Xe máy",
+    "confidence": 0.5812505954045473,
+    "createdAt": "2026-03-31T10:17:22.224060",
+    "status": "confirmed",
+    "decidedAt": "2026-03-31T10:17:55.347658",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 12,
+    "plateNumber": "12-B716888",
+    "vehicleType": "Ô tô",
+    "confidence": 0.41915619151610006,
+    "createdAt": "2026-03-31T10:18:12.150078",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:21:28.082375",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 13,
+    "plateNumber": "59-M779379",
+    "vehicleType": "Ô tô",
+    "confidence": 0.2027623019573082,
+    "createdAt": "2026-03-31T10:21:42.988336",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:21:58.601414",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 14,
+    "plateNumber": "59-V779379",
+    "vehicleType": "Ô tô",
+    "confidence": 0.19863291407293812,
+    "createdAt": "2026-03-31T10:22:15.395570",
+    "status": "rejected",
+    "decidedAt": "2026-03-31T10:22:25.151703",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 15,
+    "plateNumber": "59-V179379",
+    "vehicleType": "Xe tải",
+    "confidence": 0.14299297258509314,
+    "createdAt": "2026-03-31T10:22:29.964310",
+    "status": "confirmed",
+    "decidedAt": "2026-03-31T10:22:45.017781",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 16,
+    "plateNumber": "51F-97022",
+    "vehicleType": "Ô tô",
+    "confidence": 0.7505450174810883,
+    "createdAt": "2026-03-31T10:25:31.819613",
+    "status": "confirmed",
+    "decidedAt": "2026-03-31T10:25:44.747547",
+    "plateImageRelativePath": "plate/16.jpg"
+  },
+  {
+    "candidateId": 17,
+    "plateNumber": "99-E12226",
+    "vehicleType": "Xe máy",
+    "confidence": 0.6082522695789447,
+    "createdAt": "2026-04-02T17:03:39.895401",
+    "status": "rejected",
+    "decidedAt": "2026-04-02T17:04:01.740530",
+    "plateImageRelativePath": null
+  },
+  {
+    "candidateId": 18,
+    "plateNumber": "99-E122268",
+    "vehicleType": "Ô tô",
+    "confidence": 0.8858603020493528,
+    "createdAt": "2026-04-02T17:04:10.504879",
+    "status": "confirmed",
+    "decidedAt": "2026-04-02T17:04:20.400975",
+    "plateImageRelativePath": "plate/18.jpg"
+  }
+]
